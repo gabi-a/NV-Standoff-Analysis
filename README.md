@@ -1,0 +1,1 @@
+Code for analysing linecuts of magnetic and optical images to determine resolution. 

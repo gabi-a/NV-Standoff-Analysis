@@ -1,0 +1,25 @@
+{
+    "fname":"F:\\ExperimentalData\\2021\\2021-05\\W-CoFeB-MgO\\#177k_on_arm\\ODMR - CW_90_Full_bin_0\\data\\diffSubPlane.txt",
+    "objective":10,
+    "optical_fwhm":1.06e-6,
+    "line1":{
+        "p0":{
+            "x":294,
+            "y":296
+        },
+        "p1":{
+            "x":170,
+            "y":442
+        }
+    },
+    "line2":{
+        "p0":{
+            "x":313,
+            "y":102
+        },
+        "p1":{
+            "x":515,
+            "y":102
+        }
+    }
+}

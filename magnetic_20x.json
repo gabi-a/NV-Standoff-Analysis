@@ -1,0 +1,25 @@
+{
+    "fname":"C:\\Users\\Gaming\\Desktop\\ODMR - CW_694_Full_bin_1\\data\\diffSubPlane.txt",
+    "objective":20,
+    "optical_fwhm":7.08e-7,
+    "line1":{
+        "p0":{
+            "x":336,
+            "y":624
+        },
+        "p1":{
+            "x":675,
+            "y":630
+        }
+    },
+    "line2":{
+        "p0":{
+            "x":728,
+            "y":574
+        },
+        "p1":{
+            "x":744,
+            "y":69
+        }
+    }
+}
